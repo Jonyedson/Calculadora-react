@@ -1,10 +1,11 @@
 # Calculadora
 
 <p align="center">
-  <img  src=""
+  <img  src="public/calculadora-react.gif"
 </p>
 
   ##TOOLS
+  
   `React` `JavaScript` `HTML` `CSS`
   
   ## Sobre o projeto
